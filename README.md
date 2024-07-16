@@ -1,2 +1,2 @@
 # FSD
-FSD Assignment 1 Sem 5 3rd Year
+FSD Lab Assignments Sem 5 3rd Year
